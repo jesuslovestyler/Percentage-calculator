@@ -60,6 +60,18 @@
       }
 
       header { padding: 6px 2px 18px; }
+      .home-row { text-align: right; margin-bottom: 10px; }
+      .home-pill {
+        display: inline-block;
+        font-size: 0.85rem;
+        font-weight: 600;
+        color: var(--accent);
+        background: var(--accent-soft);
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 5px 12px;
+        text-decoration: none;
+      }
       h1 {
         font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
         font-size: 1.85rem;
@@ -217,6 +229,7 @@
   <body>
     <div class="wrap">
       <header>
+        <div class="home-row"><a class="home-pill" href="https://jesuslovestyler.com/">⌂ Home</a></div>
         <h1>Percentage Calculator</h1>
         <p class="intro">Three everyday percentage questions, answered the moment you type.</p>
       </header>
@@ -428,5 +441,6 @@
         calc1(); calc2(); calc3();
       })();
     </script>
+    <script data-goatcounter="https://jesuslovestyler.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
   </body>
 </html>
