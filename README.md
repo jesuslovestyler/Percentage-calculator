@@ -1,7 +1,8 @@
 # Percentage Calculator
 
-Quick percentage math — find a percentage of a number, work out what percent one number is of another, and see percentage increases and decreases.
+A percentage calculator for everyday questions: what is 15% of 80, what percent is 30 of 120, and how much did something rise or fall — answered plainly.
 
 **Live:** https://jesuslovestyler.github.io/Percentage-calculator/
+**Home:** https://jesuslovestyler.com/
 
-Built with Muse artifacts.
+One self-contained page: no account, no ads, nothing to buy. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
